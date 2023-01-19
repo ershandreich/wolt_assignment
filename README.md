@@ -12,3 +12,5 @@ poetry install
 ```
 poetry run jupyter notebook
 ```
+
+## All analytics, conclusions and discussions are inside the notebook
